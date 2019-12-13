@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e006e08177fe51bd6187ecfc90b58131",
+    "revision": "76f67fd1813fb3dd97e10e9bb4b1dbf1",
     "url": "/step-memes/index.html"
   },
   {
-    "revision": "0d985814a0fd477b735c",
+    "revision": "07c0f7d93b714cea486b",
     "url": "/step-memes/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/step-memes/static/js/2.1e6e7de5.chunk.js.LICENSE"
   },
   {
-    "revision": "0d985814a0fd477b735c",
-    "url": "/step-memes/static/js/main.ff76684b.chunk.js"
+    "revision": "07c0f7d93b714cea486b",
+    "url": "/step-memes/static/js/main.35b27bd4.chunk.js"
   },
   {
     "revision": "6c71435cfea5348505da",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7ce9c5ebb4e2bcda60197330d7959a3a",
     "url": "/step-memes/static/media/jayanth-said-so.7ce9c5eb.jpg"
+  },
+  {
+    "revision": "1c66ca4334cb9d3fe11688574679c5da",
+    "url": "/step-memes/static/media/meme.1c66ca43.jpg"
   },
   {
     "revision": "c7bb84af5630cb08ba2c90817c39d702",
