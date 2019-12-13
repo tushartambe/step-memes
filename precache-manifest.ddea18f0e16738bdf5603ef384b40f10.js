@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76f67fd1813fb3dd97e10e9bb4b1dbf1",
+    "revision": "b2343261494b38ef7383c0dfc6fa3914",
     "url": "/step-memes/index.html"
   },
   {
-    "revision": "07c0f7d93b714cea486b",
+    "revision": "c8d65173368364c62358",
     "url": "/step-memes/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/step-memes/static/js/2.1e6e7de5.chunk.js.LICENSE"
   },
   {
-    "revision": "07c0f7d93b714cea486b",
-    "url": "/step-memes/static/js/main.35b27bd4.chunk.js"
+    "revision": "c8d65173368364c62358",
+    "url": "/step-memes/static/js/main.5a446aea.chunk.js"
   },
   {
     "revision": "6c71435cfea5348505da",
     "url": "/step-memes/static/js/runtime-main.c2be19cc.js"
+  },
+  {
+    "revision": "63f4ba0ebb472fb4eaec0e200dc103d6",
+    "url": "/step-memes/static/media/aag-laga-de.63f4ba0e.jpg"
   },
   {
     "revision": "8dbc7f2c0c6aae7f48efb733d523031b",
