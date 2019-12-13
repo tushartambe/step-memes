@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "442966df1482f6e61441e65596ee27a2",
+    "revision": "e006e08177fe51bd6187ecfc90b58131",
     "url": "/step-memes/index.html"
   },
   {
-    "revision": "118e68465774cd2b0c16",
+    "revision": "0d985814a0fd477b735c",
     "url": "/step-memes/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/step-memes/static/js/2.1e6e7de5.chunk.js.LICENSE"
   },
   {
-    "revision": "118e68465774cd2b0c16",
-    "url": "/step-memes/static/js/main.8bf3f2e4.chunk.js"
+    "revision": "0d985814a0fd477b735c",
+    "url": "/step-memes/static/js/main.ff76684b.chunk.js"
   },
   {
     "revision": "6c71435cfea5348505da",
@@ -60,7 +60,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/step-memes/static/media/tdd-tw.05c5f94c.jpg"
   },
   {
-    "revision": "6b5b5a9a2e207e9064279ea3e6dbaecf",
-    "url": "/step-memes/static/media/tea-coffee-milk.6b5b5a9a.jpg"
+    "revision": "d04f0bf1469842226be528925930c226",
+    "url": "/step-memes/static/media/tea-coffee-juice.d04f0bf1.jpg"
   }
 ]);
